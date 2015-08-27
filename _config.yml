@@ -2,9 +2,9 @@
 title: Essential Questions in Athletics
 email: eric.pingel@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Asking, exploring, and researching the essential questions in coaching atheltics.
+  Asking, exploring, and researching the essential questions in coaching athletics.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://pingele.github.io" # the base hostname & protocol for your site
 twitter_username: pingele
 github_username:  pingele
 
